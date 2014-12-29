@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         flyway.setDataSource("jdbc:mysql://localhost:3306/flyjava2", "root", "root");
         flyway.migrate();
+        
     }
 }
