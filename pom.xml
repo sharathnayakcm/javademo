@@ -26,7 +26,7 @@
                 <version>3.1</version>
                 <configuration>
 					<driver>com.mysql.jdbc.Driver</driver>
-                    <url>jdbc:mysql://localhost:3306/flyjava2</url>
+                    <url>jdbc:mysql://localhost:3306/flyjava3</url>
 					<user>root</user>
 					<password>root</password>
 					<locations>
